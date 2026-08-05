@@ -14,3 +14,4 @@ RUN mkdir -p /root/ComfyUI/models/diffusion_models \
     && curl -s https://rclone.org/install.sh | bash
 
 WORKDIR /root/ComfyUI
+
